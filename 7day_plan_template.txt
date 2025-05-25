@@ -1,0 +1,85 @@
+Travel Plan:
+
+Day 1:
+Current City: from {current_city} to {next_city}  
+Transportation: Flight Number: {flight_number}, from {departure_city} to {arrival_city}, Departure Time: {HH:MM}, Arrival Time: {HH:MM}  
+Breakfast: {name, city} OR -  
+Attraction: {name, city} OR -  
+Lunch: {name, city} OR -  
+Dinner: {name, city} OR -  
+Accommodation: {name, city} OR -  
+Event: {name, city} OR -  
+Point of Interest List:  
+{name}, stay from {HH:MM} to {HH:MM}, nearest transit: {transit stop name}, {distance}m away; {name}, visit from {HH:MM} to {HH:MM}, nearest transit: {transit stop name}, {distance}m away; {name}, visit from {HH:MM} to {HH:MM}, nearest transit: {transit stop name}, {distance}m away; {name}, visit from {HH:MM} to {HH:MM}, nearest transit: {transit stop name}, {distance}m away; {name}, stay from {HH:MM} to {HH:MM}, nearest transit: {transit stop name}, {distance}m away.
+
+Day 2:
+Current City: {current_city}  
+Transportation: -
+Breakfast: {name, city} OR -
+Attraction: {name, city} OR -
+Lunch: {name, city} OR -
+Dinner: {name, city} OR -
+Accommodation: {name, city}
+Event: {name, city} OR -
+Point of Interest List:  
+{name}, stay from {HH:MM} to {HH:MM}, nearest transit: {transit stop name}, {distance}m away; {name}, visit from {HH:MM} to {HH:MM}, nearest transit: {transit stop name}, {distance}m away; {name}, visit from {HH:MM} to {HH:MM}, nearest transit: {transit stop name}, {distance}m away; {name}, visit from {HH:MM} to {HH:MM}, nearest transit: {transit stop name}, {distance}m away; {name}, stay from {HH:MM} to {HH:MM}, nearest transit: {transit stop name}, {distance}m away.
+
+Day 3:  
+Current City: from {current_city} to {next_city}  
+Transportation: Flight Number: {flight_number}, from {departure_city} to {arrival_city}, Departure Time: {HH:MM}, Arrival Time: {HH:MM}  
+Breakfast: {name, city} OR -  
+Attraction: {name, city} OR -  
+Lunch: {name, city} OR -  
+Dinner: {name, city} OR -  
+Accommodation: {name, city} 
+Event: {name, city} OR -
+Point of Interest List:  
+{name}, stay from {HH:MM} to {HH:MM}, nearest transit: {transit stop name}, {distance}m away; {name}, visit from {HH:MM} to {HH:MM}, nearest transit: {transit stop name}, {distance}m away; visit from {HH:MM} to {HH:MM}, nearest transit: {transit stop name}, {distance}m away; {name}, stay from {HH:MM} to {HH:MM}, nearest transit: {transit stop name}, {distance}m away; {name}, visit from {HH:MM} to {HH:MM}, nearest transit: {transit stop name}, {distance}m away; {name}, stay from {HH:MM} to {HH:MM}, nearest transit: {transit stop name}, {distance}m away.
+
+Day 4:
+Current City: {current_city}  
+Transportation: -
+Breakfast: {name, city} OR -  
+Attraction: {name, city} OR -  
+Lunch: {name, city} OR -  
+Dinner: {name, city} OR -  
+Accommodation: {name, city} OR -  
+Event: {name, city} OR -
+Point of Interest List:  
+{name}, stay from {HH:MM} to {HH:MM}, nearest transit: {transit stop name}, {distance}m away; {name}, visit from {HH:MM} to {HH:MM}, nearest transit: {transit stop name}, {distance}m away; {name}, visit from {HH:MM} to {HH:MM}, nearest transit: {transit stop name}, {distance}m away; {name}, visit from {HH:MM} to {HH:MM}, nearest transit: {transit stop name}, {distance}m away; {name}, stay from {HH:MM} to {HH:MM}, nearest transit: {transit stop name}, {distance}m away.
+
+Day 5:  
+Current City: from {current_city} to {next_city}  
+Transportation: Flight Number: {flight_number}, from {departure_city} to {arrival_city}, Departure Time: {HH:MM}, Arrival Time: {HH:MM}  
+Breakfast: {name, city} OR -  
+Attraction: {name, city} OR -  
+Lunch: {name, city} OR -  
+Dinner: {name, city} OR -  
+Accommodation: {name, city} 
+Event: {name, city} OR -
+Point of Interest List:  
+{name}, stay from {HH:MM} to {HH:MM}, nearest transit: {transit stop name}, {distance}m away; {name}, visit from {HH:MM} to {HH:MM}, nearest transit: {transit stop name}, {distance}m away; visit from {HH:MM} to {HH:MM}, nearest transit: {transit stop name}, {distance}m away; {name}, stay from {HH:MM} to {HH:MM}, nearest transit: {transit stop name}, {distance}m away; {name}, visit from {HH:MM} to {HH:MM}, nearest transit: {transit stop name}, {distance}m away; {name}, stay from {HH:MM} to {HH:MM}, nearest transit: {transit stop name}, {distance}m away.
+
+Day 6:
+Current City: {current_city}  
+Transportation: -
+Breakfast: {name, city} OR -  
+Attraction: {name, city} OR -  
+Lunch: {name, city} OR -  
+Dinner: {name, city} OR -  
+Accommodation: {name, city} OR -  
+Event: {name, city} OR -
+Point of Interest List:  
+{name}, stay from {HH:MM} to {HH:MM}, nearest transit: {transit stop name}, {distance}m away; {name}, visit from {HH:MM} to {HH:MM}, nearest transit: {transit stop name}, {distance}m away; {name}, visit from {HH:MM} to {HH:MM}, nearest transit: {transit stop name}, {distance}m away; {name}, visit from {HH:MM} to {HH:MM}, nearest transit: {transit stop name}, {distance}m away; {name}, stay from {HH:MM} to {HH:MM}, nearest transit: {transit stop name}, {distance}m away.
+
+Day 7:  
+Current City: from {current_city} to {next_city}  
+Transportation: Flight Number: {flight_number}, from {departure_city} to {arrival_city}, Departure Time: {HH:MM}, Arrival Time: {HH:MM}  
+Breakfast: {name, city} OR -  
+Attraction: {name, city} OR -  
+Lunch: {name, city} OR -  
+Dinner: {name, city} OR -  
+Accommodation: -  
+Event: {name, city} OR -  
+Point of Interest List:  
+{name}, stay from {HH:MM} to {HH:MM}, nearest transit: {transit stop name}, {distance}m away; {name}, visit from {HH:MM} to {HH:MM}, nearest transit: {transit stop name}, {distance}m away; {name}, visit from {HH:MM} to {HH:MM}, nearest transit: {transit stop name}, {distance}m away.
